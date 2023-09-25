@@ -1,9 +1,22 @@
-@def title = "Valdemar Skou"
+@def title = "Personal Homepage of Valdemar Skou"
 @def tags = ["syntax", "code"]
+@def hasmath = true
+@def hascode = true
 
-# How to use Franklin
 
-\tableofcontents <!-- you can use \toc as well -->
+# Personal Homepage of Valdemar Skou
+
+Welcome to my homepage! I am a mathematics MSc student at the [University of Copenhagen](https://www.math.ku.dk/english/), where I previously earned my BSc (also in mathematics!). My current interests lie within the field of partial differential equations, where my theoretical studies have been within the elliptic theory. More recently I have been very interested in numerical methods of PDEs, from classical discretization methods such as FEM and FVM, to more modern spectral element methods. 
+
+I have also worked for multiple years as a TA in various bachelor level courses, in subjects such as: introductory real analysis in one variable, complex analysis, partial differential equations, and linear algebra.
+
+To contact me, send an email to `valdemar { dot} skou { at } gmail {dot} com`. You can also find me on [Github](https://github.com/valdemarskou/) and [LinkedIn](https://www.linkedin.com/in/valdemar-skou-knudsen-38759097/).
+
+
+
+
+<!--
+\tableofcontents
 
 This section is meant as a refresher if you're new to Franklin.
 Have a look at both how the website renders and the corresponding markdown (`index.md`).
@@ -100,7 +113,7 @@ In a similar vein you can cite references that would be at the bottom of the pag
 
 **Note**: the LaTeX commands you define can also incorporate standard markdown (though not in a math environment) so for instance let's define a silly `\bolditalic` command.
 
-\newcommand{\bolditalic}[1]{_**!#1**_} <!--_ ignore this comment, it helps atom to not get confused by the trailing underscore when highlighting the code but is not necessary.-->
+\newcommand{\bolditalic}[1]{_**!#1**_} <!--_ ignore this comment, it helps atom to not get confused by the trailing underscore when highlighting the code but is not necessary.--
 
 and use it \bolditalic{here for example}.
 
@@ -185,3 +198,4 @@ Last modified: {{ fill fd_mtime }}.
 This dictionary of variables is accessed locally by pages through `@def varname = value` and globally through the `config.md` page via the same syntax.
 
 There's a few other such functions of the form `{{fname p₁ p₂}}` as well as support for conditional blocks. If you wander through the `src/_html_parts/` folder and its content, you should be able to see those in action.
+-->
