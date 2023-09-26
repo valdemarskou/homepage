@@ -16,11 +16,14 @@ mintoclevel = 2
 ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
+
 generate_rss = true
 website_title = "Franklin Template"
 website_descr = "Example website using Franklin"
 website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
 +++
+
+
 
 <!--
 Add here global latex commands to use throughout your pages.
@@ -30,4 +33,4 @@ Add here global latex commands to use throughout your pages.
 
 <!--name of repo-->
 
-@def prepath ="Homepage"
+@def prepath ="homepage"

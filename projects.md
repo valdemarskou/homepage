@@ -4,8 +4,37 @@ hascode = true
 tags = ["syntax", "code"]
 +++
 
-## Bachelors thesis.
+## BSs thesis.
+I defended my BSc thesis "Qualitative Aspects of Mathematical Reaction Networks
+Using Methods from Algebra and Degree Theory" and earned the degree of Bachelor of Science in Mathematics on September 8th, 2022. You can download the~~~
+<a href="/_assets/Bachelorprojekt_Final.pdf">thesis</a>
+~~~
+or read the abstract below.
 
+
+
+<!-->
+~~~
+
+<div class="row">
+    <div class="container">
+        <a href="/_assets/Bachelorprojekt_Final.pdf" download="proposal">
+    <\div>
+</div>
+~~~
+-->
+
+### Abstract of the thesis
+
+The goal of this project is to give an introduction some areas within chemical reaction network the-
+ory. The structure of reaction networks and its interplay with the associated systems of differential
+equations is described, and different methods using tools from both algebra and analysis are intro-
+duced and applied to several concrete networks. A large part of the project is dedicated to a given
+network’s capacity for multistationarity, which is an interesting property concerning the number of
+steady states for the associated ODE system. The method developed here involves computing the
+C1-mapping degree for a certain family of functions $\phi_c\in\mathcal{C}^1(\R^n_{\geq 0},\R^n)$. Since many of the properties
+of the mapping degree are nontrivial, their proofs are given in full detail. Finally, the project is
+wrapped up by applying all of the methods developed on several specific reaction networks.
 
 ## Project in nonlinear elliptic PDE.
 
