@@ -25,22 +25,23 @@ or read the abstract below.
 -->
 
 ### Abstract of the thesis
-
-The goal of this project is to give an introduction some areas within chemical reaction network the-
-ory. The structure of reaction networks and its interplay with the associated systems of differential
-equations is described, and different methods using tools from both algebra and analysis are intro-
-duced and applied to several concrete networks. A large part of the project is dedicated to a given
-network’s capacity for multistationarity, which is an interesting property concerning the number of
-steady states for the associated ODE system. The method developed here involves computing the
-C1-mapping degree for a certain family of functions $\phi_c\in\mathcal{C}^1(\R^n_{\geq 0},\R^n)$. Since many of the properties
-of the mapping degree are nontrivial, their proofs are given in full detail. Finally, the project is
-wrapped up by applying all of the methods developed on several specific reaction networks.
+The goal of this project is to give an introduction some areas within chemical reaction network theory. The structure of reaction networks and its interplay with the associated systems of differential equations is described, and different methods using tools from both algebra and analysis are introduced and applied to several concrete networks. A large part of the project is dedicated to a given network’s capacity for multistationarity, which is an interesting property concerning the number of steady states for the associated ODE system. The method developed here involves computing the $\mathcal{C}^1$-mapping degree for a certain family of functions $\phi_c\in\mathcal{C}^1(\R^n_{\geq 0},\R^n)$. Since many of the properties of the mapping degree are nontrivial, their proofs are given in full detail. Finally, the project is wrapped up by applying all of the methods developed on several specific reaction networks.
 
 ## Project in nonlinear elliptic PDE.
+I wrote a project outside course scope in regularity for nonlinear elliptic partial differential equations. Essentially it was a reading course in the book "Fully Nonlinear Elliptic Equations" by Caffarelli and Cabré. You can download the ~~~
+<a href="/_assets/Bachelorprojekt_Final.pdf">report</a>
+~~~
+or read the abstract below.
+
+### Abstract of the project
+The purpose of this report is to establish Hölder regularity results for some fully nonlinear elliptic PDE, of second order. For this purpose, the viscosity solution is an essential construction, and we briefly introduce the appropriate function spaces that arise in this setting. We show the Harnack inequality and the Evans-Krylov theorem in this setting, and then we move on to solving the Dirichlet problem for concave equations with constant coefficients.
 
 
 ## Project in spectral element method for 2D Navier Stokes.
-
+I wrote a small project focusing on developing a solver for the 2D Navier Stokes equation in simple periodic domains. You can download the resulting ~~~
+<a href="/_assets/Numerical_Methods_assignment03_poster.pdf">poster</a>
+~~~
+or check out the [code repository](https://github.com/valdemarskou/Numerical-Methods-for-DE) on GitHub.
 
 
 
