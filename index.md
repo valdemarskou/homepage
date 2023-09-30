@@ -10,7 +10,7 @@ Welcome to my homepage! I am a mathematics MSc student at the [University of Cop
 
 I have also worked for multiple years as a TA in various bachelor level courses, in subjects such as: introductory real analysis in one variable, complex analysis, partial differential equations, and linear algebra.
 
-To contact me, send an email to `valdemar { dot} skou { at } gmail {dot} com`. You can also find me on [Github](https://github.com/valdemarskou/) and [LinkedIn](https://www.linkedin.com/in/valdemar-skou-knudsen-38759097/).
+To contact me, send an email to `valdemar { dot } skou { at } gmail { dot } com`. You can also find me on [Github](https://github.com/valdemarskou/) and [LinkedIn](https://www.linkedin.com/in/valdemar-skou-knudsen-38759097/).
 
 
 

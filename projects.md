@@ -4,7 +4,7 @@ hascode = true
 tags = ["syntax", "code"]
 +++
 
-## BSs thesis.
+## BSc thesis.
 I defended my BSc thesis "Qualitative Aspects of Mathematical Reaction Networks
 Using Methods from Algebra and Degree Theory" and earned the degree of Bachelor of Science in Mathematics on September 8th, 2022. You can download the~~~
 <a href="/_assets/Bachelorprojekt_Final.pdf">thesis</a>
