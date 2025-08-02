@@ -4,10 +4,24 @@ hascode = true
 tags = ["syntax", "code"]
 +++
 
+## MSc thesis.
+
+I defended my MSc thesis "Approximating solutions to partial differential equations with physics-informed reproducing kernels" and earned the degree of Master of Science in Mathematics on July 21st, 2025. You can download the~~~
+<a href="/assets/Msc_thesis_report.pdf">thesis</a>
+~~~
+, the~~~
+<a href="/assets/Msc_thesis_slides.pdf">defense slides,</a>
+~~~
+or read the abstract below. The code for the project is found on my main GitHub page.
+
+### Abstract of the thesis
+In this thesis, we present and explore the reproducing kernel Hilbert space regression framework in the context of estimating behavior governed by physics-based partial differential equations. We implement the framework with different optimization procedures and equation examples, and evaluate our results based on how we the underlying equation behavior is captured. We present a method for transforming the reproducing kernel to naturally uphold global properties imposed by such equations, in the form of conservation laws, and demonstrate that the resulting kernel expansion estimators are more physically valid and also yield improved numerical accuracy.
+
+
 ## BSc thesis.
 I defended my BSc thesis "Qualitative Aspects of Mathematical Reaction Networks
 Using Methods from Algebra and Degree Theory" and earned the degree of Bachelor of Science in Mathematics on September 8th, 2022. You can download the~~~
-<a href="/_assets/Bachelorprojekt_Final.pdf">thesis</a>
+<a href="/assets/Bachelorprojekt_Final.pdf">thesis</a>
 ~~~
 or read the abstract below.
 
@@ -29,7 +43,7 @@ The goal of this project is to give an introduction some areas within chemical r
 
 ## Project in nonlinear elliptic PDE.
 I wrote a project outside course scope in regularity for nonlinear elliptic partial differential equations. Essentially it was a reading course in the book "Fully Nonlinear Elliptic Equations" by Caffarelli and Cabré. You can download the ~~~
-<a href="/_assets/Bachelorprojekt_Final.pdf">report</a>
+<a href="/assets/Bachelorprojekt_Final.pdf">report</a>
 ~~~
 or read the abstract below.
 
@@ -39,9 +53,15 @@ The purpose of this report is to establish Hölder regularity results for some f
 
 ## Project in spectral element method for 2D Navier Stokes.
 I wrote a small project focusing on developing a solver for the 2D Navier Stokes equation in simple periodic domains. You can download the resulting ~~~
-<a href="/_assets/Numerical_Methods_assignment03_poster.pdf">poster</a>
+<a href="/assets/Numerical_Methods_assignment03_poster.pdf">poster</a>
 ~~~
 or check out the [code repository](https://github.com/valdemarskou/Numerical-Methods-for-DE) on GitHub.
+
+
+## Project in trace inequalities and Stahls theorem.
+I wrote a small project about trace inequalities, where I gave a shortened proof of Stahl's theorem, which represents a class of Hermitian matrix trace formulae in terms of the Laplace transform of a positive measure. A number of interesting corollaries was also dicussed, in particular the connections with Bernstein's theorem for monotone functions. The project was mostly of theoretical interest, but but also has applications in combining data-driven methos with computational linear algebra. You can download the report~~~
+<a href="/assets/Msc_Project_2.pdf">here.</a>
+~~~
 
 
 

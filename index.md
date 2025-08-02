@@ -6,9 +6,11 @@
 
 # Personal Homepage of Valdemar Skou
 
-Welcome to my homepage! I am a mathematics MSc student at the [University of Copenhagen](https://www.math.ku.dk/english/), where I previously earned my BSc (also in mathematics!). My current interests lie within the field of partial differential equations, where my theoretical studies have been within the elliptic theory. More recently I have been very interested in numerical methods of PDEs, from classical discretization methods such as FEM and FVM, to more modern spectral element methods. 
+Welcome to my homepage! This is where you will find some basic information about me and my interests.
 
-I have also worked for multiple years as a TA in various bachelor level courses, in subjects such as: introductory real analysis in one variable, complex analysis, partial differential equations, and linear algebra.
+I have a Bachelors degree and a Masters degree, both in mathematics, and both obtained at the [University of Copenhagen](https://www.math.ku.dk/english/). My theoretical interests lie within the field of partial differential equations, specifically regularity for fully nonlinear elliptic equations. I am also interested in numerical methods for PDEs, and have experience working with the finite difference/element methods, as well as the spectral element method (Fourier and orthogonal polynomial expansions) in the pursuit of developing fast and accurate numerical PDE solvers. I wrote my Masters thesis in data-driven solution to PDEs, with the title "Approximating solutions to partial differential equations with physics-informed reproducing kernels" (See more on this on my [projects page](https://valdemarskou.github.io/homepage/projects/)). I worked for multiple years as a TA in various bachelor level courses, in subjects such as: introductory real analysis in one variable, complex analysis, partial differential equations, and linear algebra.
+
+I am interested in using statistical and data-driven methods to solving difficult technical problems, especially where solutions would benefit productivity and efficiency in industry settings. I have experience with statistical models, including exponential families and GLMs, and I am proficient in several programming languages, including Python, R, C++, and Julia.
 
 To contact me, send an email to `valdemar { dot } skou { at } gmail { dot } com`. You can also find me on [Github](https://github.com/valdemarskou/) and [LinkedIn](https://www.linkedin.com/in/valdemar-skou-knudsen-38759097/).
 
