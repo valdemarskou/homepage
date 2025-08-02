@@ -59,7 +59,7 @@ or check out the [code repository](https://github.com/valdemarskou/Numerical-Met
 
 
 ## Project in trace inequalities and Stahls theorem.
-I wrote a small project about trace inequalities, where I gave a shortened proof of Stahl's theorem, which represents a class of Hermitian matrix trace formulae in terms of the Laplace transform of a positive measure. A number of interesting corollaries was also dicussed, in particular the connections with Bernstein's theorem for monotone functions. The project was mostly of theoretical interest, but but also has applications in combining data-driven methos with computational linear algebra. You can download the report~~~
+I wrote a small project about trace inequalities, where I gave a shortened proof of Stahl's theorem, which represents a class of Hermitian matrix trace formulae in terms of the Laplace transform of a positive measure. A number of interesting corollaries was also dicussed, in particular the connections with Bernstein's theorem for monotone functions. The project was mostly of theoretical interest, but but also has applications in combining data-driven methods with computational linear algebra. You can download the report~~~
 <a href="/assets/Msc_Project_2.pdf">here.</a>
 ~~~
 
