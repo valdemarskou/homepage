@@ -7,9 +7,9 @@ tags = ["syntax", "code"]
 ## MSc thesis.
 
 I defended my MSc thesis "Approximating solutions to partial differential equations with physics-informed reproducing kernels" and earned the degree of Master of Science in Mathematics on July 21st, 2025. You can download the~~~
-<a href="/assets/Msc_thesis_report.pdf">thesis</a>
+<a href="/assets/Msc_thesis_report.pdf">thesis,</a>
 ~~~
-, the~~~
+the~~~
 <a href="/assets/Msc_thesis_slides.pdf">defense slides,</a>
 ~~~
 or read the abstract below. The code for the project is found on my main GitHub page.
